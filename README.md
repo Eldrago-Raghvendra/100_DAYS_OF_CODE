@@ -21,3 +21,12 @@ Python :- 1) Installation 2) basic input output code with some pre-defined funct
 
 Link:- 1) https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Installation
 Link:- 2) https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Python%20basics%2CInputs%20pre-defined%20functions   
+
+# DAY 4: 15 Sept 2020
+
+Python :1) List 2)Python inputs
+Link:- 1)https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/List%20%20in%20Python
+Link:- 2)https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Getting%20Inputs
+
+Cpp Getline usage
+Link:- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/inputs%20using%20getline
