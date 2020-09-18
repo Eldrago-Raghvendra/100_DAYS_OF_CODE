@@ -36,4 +36,10 @@ Python:Tuples Functions
 Link:- https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Tuples%20Functions%20Return%20statements
 
 CPP: Arrays and functions
-Link:- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays%20and%20Functions
+Link :- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays%20and%20Functions
+
+# DAY 6: 17 Sept 2020
+
+Operators in Python
+
+Link :- https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/operators%20in%20Python
