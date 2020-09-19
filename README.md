@@ -43,3 +43,9 @@ Link :- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays
 Operators in Python
 
 Link :- https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/operators%20in%20Python
+
+# DAY 7: 18 Sept 2020
+
+Started  practise at hackerank:
+Link:-
+https://www.hackerrank.com/challenges/py-hello-world/problem
