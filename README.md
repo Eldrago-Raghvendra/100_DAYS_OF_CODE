@@ -49,3 +49,5 @@ Link :- https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/oper
 Started  practise at hackerank:
 Link:-
 https://www.hackerrank.com/challenges/py-hello-world/problem
+
+https://www.hackerrank.com/challenges/py-if-else/problem
