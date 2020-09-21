@@ -95,3 +95,5 @@ https://www.hackerrank.com/challenges/c-tutorial-functions/submissions/code/1605
 
 https://www.hackerrank.com/challenges/c-tutorial-pointer/submissions/code/160661314
 
+https://www.hackerrank.com/challenges/arrays-introduction/submissions/code/160671256
+
