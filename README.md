@@ -20,7 +20,9 @@ C++ Mad_libs game and Calculator
 Link :- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Calculator%20and%20Mad_Libs%20Game
 
 Python :-
+
 1) Installation
+
 2) basic input output code with some pre-defined functions
 
 Link:- 1) https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Installation
@@ -43,10 +45,13 @@ Cpp Getline usage
 Link:- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/inputs%20using%20getline
 
 # DAY 5: 16 Sept 2020
+
 Python:Tuples Functions
+
 Link:- https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Tuples%20Functions%20Return%20statements
 
 CPP: Arrays and functions
+
 Link :- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays%20and%20Functions
 
 # DAY 6: 17 Sept 2020
