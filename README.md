@@ -54,7 +54,7 @@ https://www.hackerrank.com/challenges/py-if-else/problem
 
 https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 
-https://www.hackerrank.com/challenges/python-division/problem
+
 
 # DAY 8: 19 Sept 2020
 Started C practise HackerRank
