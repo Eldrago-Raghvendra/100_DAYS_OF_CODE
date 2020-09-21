@@ -77,3 +77,7 @@ https://www.hackerrank.com/challenges/pointer-in-c/submissions/code/165934394
 https://www.hackerrank.com/challenges/conditional-statements-in-c/submissions/code/165942324
 
 # DAY 10: 21 Sept 2020
+Cpp HackerRank Practise Link:
+
+https://www.hackerrank.com/challenges/cpp-hello-world/submissions/code/158698477
+
