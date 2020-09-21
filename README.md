@@ -52,7 +52,7 @@ https://www.hackerrank.com/challenges/py-hello-world/problem
 
 https://www.hackerrank.com/challenges/py-if-else/problem
 
-https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+
 
 
 
