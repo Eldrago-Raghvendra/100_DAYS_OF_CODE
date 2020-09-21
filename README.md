@@ -61,6 +61,8 @@ Started C practise HackerRank
 Link:
 https://www.hackerrank.com/challenges/functions-in-c/submissions/code/165929212
 
+https://www.hackerrank.com/challenges/sum-numbers-c/submissions/code/165787442
+
 # DAY 9: 20 Sept 2020
 
 # DAY 10: 21 Sept 2020
