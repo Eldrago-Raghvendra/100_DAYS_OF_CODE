@@ -19,9 +19,12 @@ C++ Mad_libs game and Calculator
 
 Link :- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Calculator%20and%20Mad_Libs%20Game
 
-Python :- 1) Installation 2) basic input output code with some pre-defined functions
+Python :-
+1) Installation
+2) basic input output code with some pre-defined functions
 
 Link:- 1) https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Installation
+
 Link:- 2) https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Python%20basics%2CInputs%20pre-defined%20functions   
 
 # DAY 4: 15 Sept 2020
