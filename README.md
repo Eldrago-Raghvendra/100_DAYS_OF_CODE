@@ -46,8 +46,9 @@ Link :- https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/oper
 
 # DAY 7: 18 Sept 2020
 
-Started  practise at hackerank:
-Link:-
+Started  practise at hackerank Link:
+
+https://www.hackerrank.com/challenges/python-division/submissions/code/180130011
 
 
 
