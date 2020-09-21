@@ -9,9 +9,9 @@ https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL
 
 # DAY 2: 13 Sept 2020 
 
-C graphics code to draw Gmail Icon using triangle strip and draw polygon
+C graphics code to draw Gmail Icon using triangle strip and draw polygon Link :- 
 
-Link :-  https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL%20Triangle_strip_Gmail%20icon%20Polygon%20C%20language 
+https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL%20Triangle_strip_Gmail%20icon%20Polygon%20C%20language 
 
 # DAY 3: 14 Sept 2020
 
@@ -30,6 +30,7 @@ Link:- 2) https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Py
 # DAY 4: 15 Sept 2020
 
 Python :1) List 2)Python inputs
+
 Link:- 1)https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/List%20%20in%20Python
 Link:- 2)https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Getting%20Inputs
 
