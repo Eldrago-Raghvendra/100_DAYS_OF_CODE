@@ -8,11 +8,13 @@ C graphics code to draw triangles quads OpenGL (Ubuntu) Link:-
 https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL%20Triangle%20Quads%20C%20language
 
 # DAY 2: 13 Sept 2020 
+
 C graphics code to draw Gmail Icon using triangle strip and draw polygon
 
 Link :-  https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL%20Triangle_strip_Gmail%20icon%20Polygon%20C%20language 
 
 # DAY 3: 14 Sept 2020
+
 C++ Mad_libs game and Calculator
 
 Link :- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Calculator%20and%20Mad_Libs%20Game
