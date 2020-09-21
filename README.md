@@ -74,4 +74,6 @@ https://www.hackerrank.com/challenges/hello-world-c/submissions/code/165777519
 
 https://www.hackerrank.com/challenges/pointer-in-c/submissions/code/165934394
 
+https://www.hackerrank.com/challenges/conditional-statements-in-c/submissions/code/165942324
+
 # DAY 10: 21 Sept 2020
