@@ -57,6 +57,9 @@ https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 https://www.hackerrank.com/challenges/python-division/problem
 
 # DAY 8: 19 Sept 2020
+Started C practise HackerRank
+Link:
+https://www.hackerrank.com/challenges/functions-in-c/submissions/code/165929212
 
 # DAY 9: 20 Sept 2020
 
