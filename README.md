@@ -29,12 +29,17 @@ Link:- 2) https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Py
 
 # DAY 4: 15 Sept 2020
 
-Python :1) List 2)Python inputs
+Python :
+1) List 
+
+2)Python inputs
 
 Link:- 1)https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/List%20%20in%20Python
+
 Link:- 2)https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Getting%20Inputs
 
 Cpp Getline usage
+
 Link:- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/inputs%20using%20getline
 
 # DAY 5: 16 Sept 2020
