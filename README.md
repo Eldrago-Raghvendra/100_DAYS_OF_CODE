@@ -21,9 +21,9 @@ Link :- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Calcul
 
 Python :-
 
-1) Installation
+1.) Installation
 
-2) basic input output code with some pre-defined functions
+2.) basic input output code with some pre-defined functions
 
 Link:- 1) https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Installation
 
