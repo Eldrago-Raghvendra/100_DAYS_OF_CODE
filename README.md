@@ -35,7 +35,7 @@ Python :
 
 1) List 
 
-2)Python inputs
+2) Python inputs
 
 Link:- 1)https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/List%20%20in%20Python
 
