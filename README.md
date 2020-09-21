@@ -91,6 +91,7 @@ https://www.hackerrank.com/challenges/playing-with-characters/submissions/code/1
 https://www.hackerrank.com/challenges/hello-world-c/submissions/code/165777534
 
 # DAY 9: 20 Sept 2020
+
 Link:
 
 https://www.hackerrank.com/challenges/hello-world-c/submissions/code/165777519
@@ -100,6 +101,7 @@ https://www.hackerrank.com/challenges/pointer-in-c/submissions/code/165934394
 https://www.hackerrank.com/challenges/conditional-statements-in-c/submissions/code/165942324
 
 # DAY 10: 21 Sept 2020
+
 Cpp HackerRank Practise Link:
 
 https://www.hackerrank.com/challenges/cpp-hello-world/submissions/code/158698477
