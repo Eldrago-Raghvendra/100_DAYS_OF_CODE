@@ -46,6 +46,8 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/operators%20
 
 https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/180129803
 
+https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/180129777
+
 # DAY 7: 18 Sept 2020
 
 Started  practise at hackerank Link:
