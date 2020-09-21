@@ -83,3 +83,5 @@ https://www.hackerrank.com/challenges/cpp-hello-world/submissions/code/158698477
 
 https://www.hackerrank.com/challenges/cpp-input-and-output/submissions/code/158699033
 
+https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/submissions/code/160287981
+
