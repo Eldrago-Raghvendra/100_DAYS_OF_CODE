@@ -40,9 +40,11 @@ Link :- https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays
 
 # DAY 6: 17 Sept 2020
 
-Operators in Python
+Operators in Python Link :- 
 
-Link :- https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/operators%20in%20Python
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/operators%20in%20Python
+
+https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/180129803
 
 # DAY 7: 18 Sept 2020
 
