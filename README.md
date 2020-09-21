@@ -61,15 +61,9 @@ https://www.hackerrank.com/challenges/py-if-else/submissions/code/178968261
 https://www.hackerrank.com/challenges/py-hello-world/submissions/code/178805020
 
 
-
-
-
-
-
-
 # DAY 8: 19 Sept 2020
-Started C practise HackerRank
-Link:
+
+Started C practise HackerRank Link:
 https://www.hackerrank.com/challenges/functions-in-c/submissions/code/165929212
 
 https://www.hackerrank.com/challenges/sum-numbers-c/submissions/code/165787442
