@@ -89,3 +89,5 @@ https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions
 
 https://www.hackerrank.com/challenges/c-tutorial-for-loop/submissions/code/160351275
 
+https://www.hackerrank.com/challenges/c-tutorial-functions/submissions/code/160508527
+
