@@ -112,7 +112,6 @@ https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/submissions/co
 
 https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/submissions/code/160335073
 
-https://www.hackerrank.com/challenges/c-tutorial-for-loop/submissions/code/160351275
 
 https://www.hackerrank.com/challenges/c-tutorial-functions/submissions/code/160508527
 
@@ -121,4 +120,6 @@ https://www.hackerrank.com/challenges/c-tutorial-functions/submissions/code/1605
 https://www.hackerrank.com/challenges/c-tutorial-pointer/submissions/code/160661314
 
 https://www.hackerrank.com/challenges/arrays-introduction/submissions/code/160671256
+
+# DAY 11: 22 Sept 2020
 
