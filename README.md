@@ -132,7 +132,9 @@ https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1
 
 # DAY 12: 23 Sept 2020
 
+Brushing some java concepts:
 
+https://www.hackerrank.com/challenges/welcome-to-java/submissions/code/138302017
 
 
 
