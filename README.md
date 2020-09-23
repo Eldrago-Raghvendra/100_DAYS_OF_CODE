@@ -130,6 +130,8 @@ https://www.w3schools.com/python/exercise.asp?filename=exercise_lists1
 
 https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1
 
+# DAY 12: 23 Sept 2020
+
 
 
 
