@@ -136,5 +136,7 @@ Brushing some java concepts:
 
 https://www.hackerrank.com/challenges/welcome-to-java/submissions/code/138302017
 
+https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/submissions/code/138334273
+
 
 
