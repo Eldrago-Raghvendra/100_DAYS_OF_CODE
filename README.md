@@ -164,6 +164,8 @@ https://www.hackerrank.com/challenges/java-loops/submissions/code/139350626
 
 https://www.hackerrank.com/challenges/java-abstract-class/submissions/code/140374552
 
+https://www.hackerrank.com/challenges/java-method-overriding/submissions/code/140375417
+
 
 
 
