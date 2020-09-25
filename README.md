@@ -158,4 +158,6 @@ https://www.hackerrank.com/challenges/java-loops-i/submissions/code/139271675
 
 https://www.hackerrank.com/challenges/java-inheritance-2/submissions/code/139275681
 
+https://www.hackerrank.com/challenges/java-loops/submissions/code/139350626
+
 
