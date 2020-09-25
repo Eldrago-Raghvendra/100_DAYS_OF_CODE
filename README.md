@@ -162,6 +162,8 @@ https://www.hackerrank.com/challenges/java-loops/submissions/code/139350626
 
 # DAY 15: 26 Sept 2020
 
+https://www.hackerrank.com/challenges/java-abstract-class/submissions/code/140374552
+
 
 
 
