@@ -154,4 +154,6 @@ https://www.hackerrank.com/challenges/java-output-formatting/submissions/code/13
 
 # DAY 14: 25 Sept 2020
 
+https://www.hackerrank.com/challenges/java-loops-i/submissions/code/139271675
+
 
