@@ -145,3 +145,5 @@ https://www.hackerrank.com/challenges/java-inheritance-1/submissions/code/138336
 https://www.hackerrank.com/challenges/java-if-else/submissions/code/138349549
 
 # DAY 13: 24 Sept 2020
+
+https://www.hackerrank.com/challenges/java-if-else/submissions/code/138349571
