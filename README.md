@@ -147,3 +147,5 @@ https://www.hackerrank.com/challenges/java-if-else/submissions/code/138349549
 # DAY 13: 24 Sept 2020
 
 https://www.hackerrank.com/challenges/java-if-else/submissions/code/138349571
+
+https://www.hackerrank.com/challenges/java-stdin-stdout/submissions/code/138352382
