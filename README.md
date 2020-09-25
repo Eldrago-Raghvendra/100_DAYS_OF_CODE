@@ -149,3 +149,5 @@ https://www.hackerrank.com/challenges/java-if-else/submissions/code/138349549
 https://www.hackerrank.com/challenges/java-if-else/submissions/code/138349571
 
 https://www.hackerrank.com/challenges/java-stdin-stdout/submissions/code/138352382
+
+https://www.hackerrank.com/challenges/java-output-formatting/submissions/code/139269452
