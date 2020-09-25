@@ -156,4 +156,6 @@ https://www.hackerrank.com/challenges/java-output-formatting/submissions/code/13
 
 https://www.hackerrank.com/challenges/java-loops-i/submissions/code/139271675
 
+https://www.hackerrank.com/challenges/java-inheritance-2/submissions/code/139275681
+
 
