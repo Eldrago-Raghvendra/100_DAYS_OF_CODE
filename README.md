@@ -168,6 +168,8 @@ https://www.hackerrank.com/challenges/java-method-overriding/submissions/code/14
 
 # DAY 16: 27 Sept 2020
 
+https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/Line%20y%3Dmx.c
+
 
 
 
