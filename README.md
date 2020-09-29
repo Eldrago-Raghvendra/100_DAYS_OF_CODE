@@ -172,6 +172,8 @@ https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/Line%2
 
 # DAY 17: 28 Sept 2020
 
+# DAY 18: 29 Sept 2020
+
 
 
 
