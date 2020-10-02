@@ -183,7 +183,8 @@ https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/Bresen
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Vowels_Cons.py
 
 # DAY 20:  1 Oct 2020
- Link: 
+
+Link: https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Series.py
 
 
 
