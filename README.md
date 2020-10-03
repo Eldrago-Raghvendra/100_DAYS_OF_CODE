@@ -186,6 +186,8 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Vowels_Cons.
 
 Link: https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Series.py
 
+# DAY 21:  2 Oct 2020
+
 
 
 
