@@ -188,6 +188,8 @@ Link: https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Series
 
 # DAY 21:  2 Oct 2020
 
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Python_practise.py
+
 
 
 
