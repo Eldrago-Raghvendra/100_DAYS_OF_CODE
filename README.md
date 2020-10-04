@@ -191,6 +191,7 @@ Link: https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Series
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Python_practise.py
 
 
+# DAY 22:  3 Oct 2020
 
 
 
