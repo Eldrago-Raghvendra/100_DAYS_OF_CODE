@@ -197,4 +197,5 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Replacing_wi
 
 # DAY 23:  4 Oct 2020
 
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Check_part_Of_string.py
 
