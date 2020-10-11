@@ -199,3 +199,7 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Replacing_wi
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Check_part_Of_string.py
 
+# DAY 24: 4 Oct 2020
+
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Arrays_in_Python.py
+
