@@ -203,3 +203,5 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Check_part_O
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Arrays_in_Python.py
 
+# DAY 25: 6 Oct 2020
+
