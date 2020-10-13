@@ -182,26 +182,28 @@ https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/Bresen
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Vowels_Cons.py
 
-# DAY 20:  1 Oct 2020
+# DAY 20: 1 Oct 2020
 
 Link: https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Series.py
 
-# DAY 21:  2 Oct 2020
+# DAY 21: 2 Oct 2020
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Python_practise.py
 
 
-# DAY 22:  3 Oct 2020
+# DAY 22: 3 Oct 2020
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Replacing_with_h.py
 
-# DAY 23:  4 Oct 2020
+# DAY 23: 4 Oct 2020
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Check_part_Of_string.py
 
-# DAY 24: 4 Oct 2020
+# DAY 24: 5 Oct 2020
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Arrays_in_Python.py
 
 # DAY 25: 6 Oct 2020
+
+
 
