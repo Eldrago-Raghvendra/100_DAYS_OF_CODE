@@ -207,5 +207,7 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Arrays_in_Py
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Arrays_Python_2.py
 
+# DAY 26: 7 Oct 2020
+
 
 
