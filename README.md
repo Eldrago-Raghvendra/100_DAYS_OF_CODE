@@ -211,5 +211,9 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Arrays_Pytho
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Calculator_Classes_Objects.py
 
+# DAY 27: 8 Oct 2020
+
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/pyprg1.ipynb
+
 
 
