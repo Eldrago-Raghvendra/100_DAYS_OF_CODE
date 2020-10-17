@@ -221,6 +221,6 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/pyprg2.ipynb
 
 # DAY 29: 10 Oct 2020
 
-
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Reversing_array.py
 
 
