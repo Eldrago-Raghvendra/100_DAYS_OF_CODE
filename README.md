@@ -225,6 +225,7 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Reversing_ar
 
 # DAY 30: 11 Oct 2020
 
+https://www.hackerrank.com/challenges/python-loops/submissions/code/184455066
 
 
 
