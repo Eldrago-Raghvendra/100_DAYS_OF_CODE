@@ -227,5 +227,7 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Reversing_ar
 
 https://www.hackerrank.com/challenges/python-loops/submissions/code/184455066
 
+https://www.hackerrank.com/challenges/write-a-function/submissions/code/184464001
+
 
 
