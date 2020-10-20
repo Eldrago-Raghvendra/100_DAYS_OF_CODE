@@ -231,5 +231,6 @@ https://www.hackerrank.com/challenges/write-a-function/submissions/code/18446400
 
 # DAY 31: 12 Oct 2020
 
+https://www.hackerrank.com/challenges/python-print/submissions/code/184465214
 
 
