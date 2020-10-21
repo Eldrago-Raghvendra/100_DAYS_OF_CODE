@@ -233,4 +233,8 @@ https://www.hackerrank.com/challenges/write-a-function/submissions/code/18446400
 
 https://www.hackerrank.com/challenges/python-print/submissions/code/184465214
 
+# DAY 32: 13 Oct 2020
+
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Dictionary.py
+
 
