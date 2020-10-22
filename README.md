@@ -239,4 +239,6 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Dictionary.p
 
 # DAY 33: 14 Oct 2020
 
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Dictionary_item_removal.py
+
 
