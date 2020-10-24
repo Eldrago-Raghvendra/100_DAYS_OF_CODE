@@ -245,4 +245,8 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Dictionary_i
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/pyprg3.ipynb
 
+# DAY 35: 16 Oct 2020
+
+https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Array_remove.py
+
 
