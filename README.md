@@ -249,4 +249,7 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/pyprg3.ipynb
 
 https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Array_remove.py
 
+# DAY 36: 17 Oct 2020
+
+https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL_Line%20Clipping.c
 
