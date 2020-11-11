@@ -253,3 +253,5 @@ https://github.com/Eldrago-Raghvendra/Python_Capture_It/blob/master/Array_remove
 
 https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL_Line%20Clipping.c
 
+# DAY 37: 18 Oct 2020
+
