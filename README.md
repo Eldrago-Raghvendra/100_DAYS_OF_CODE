@@ -255,3 +255,7 @@ https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL
 
 # DAY 37: 18 Oct 2020
 
+https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Patterns_cpp/Rectangle%20with%20*.c
+
+https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Patterns_cpp/Hollow_Rectangle.c
+
