@@ -259,3 +259,5 @@ https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Patterns_cpp/R
 
 https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Patterns_cpp/Hollow_Rectangle.c
 
+# DAY 38: 19 Oct 2020
+
