@@ -261,3 +261,4 @@ https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Patterns_cpp/H
 
 # DAY 38: 19 Oct 2020
 
+https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays/Searching/LinearSearch.cpp
