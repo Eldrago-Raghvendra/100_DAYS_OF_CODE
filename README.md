@@ -266,3 +266,5 @@ https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays/Searchi
 # DAY 39: 20 Oct 2020
 
 https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays/Searching/BinarySearch.cpp
+
+https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Patterns_cpp/Inverted%20Triangle.cpp
