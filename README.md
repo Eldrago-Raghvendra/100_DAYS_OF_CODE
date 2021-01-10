@@ -274,3 +274,5 @@ https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Patterns_cpp/I
 https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL_2d%20transformations.c
 
 # DAY 41: 31 Dec 2020
+
+https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays/Searching/BinarySearch.cpp
