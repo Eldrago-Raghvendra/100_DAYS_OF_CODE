@@ -276,3 +276,7 @@ https://github.com/Eldrago-Raghvendra/Graphics_Creative_Codes/blob/master/OpenGL
 # DAY 41: 31 Dec 2020
 
 https://github.com/Eldrago-Raghvendra/Cpp_Miscellanea/blob/master/Arrays/Searching/BinarySearch.cpp
+
+# DAY 42: 1 Jan 2021(New Year Begins...)
+
+
